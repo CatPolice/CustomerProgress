@@ -12,4 +12,6 @@
 
 @property (nonatomic , assign) CGFloat progressValue;
 
+@property (nonatomic , strong) UILabel *lable;
+
 @end
